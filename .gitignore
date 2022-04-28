@@ -1,4 +1,6 @@
+.idea/
+
 bin/
 lib/
 
-pyenv.cfg
+pyvenv.cfg
